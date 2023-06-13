@@ -1,5 +1,5 @@
 # Takım İsmi
-EpicNexus - U-93
+EpicNexus / U-93
 # Takım Elemanları
 * İsmail Emir Gürbüz - Scrum Master/Developer
 * Pelinsu Kaleli - Product Owner/Developer
