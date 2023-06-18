@@ -13,5 +13,6 @@ EpicNexus / U-93
 # Hedef Kitle
 # Jüriye Not
 # Sprint 1 
+<img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint%201.jfif" width="auto">
 # Sprint 2
 # Sprint 3
