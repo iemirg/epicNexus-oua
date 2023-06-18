@@ -8,7 +8,7 @@ EpicNexus / U-93
 * Merve Polat - Developer
 # Ürün İsmi
 # Product backlog URL 
-https://ibb.co/71WM6dB
+https://trello.com/b/RsiRLERt/epixnexus-sprint-1
 # Ürün Açıklaması
 # Ürün Özellikleri 
 # Hedef Kitle
