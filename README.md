@@ -14,11 +14,11 @@ https://trello.com/b/RsiRLERt/epixnexus-sprint-1
 # Hedef Kitle
 # Jüriye Not
 # Sprint 1 
-* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**40
 * **Puan Tanımlama Mantığı:**
 * **Daily Scrum:**
 * **Sprint Board Update:** Sprint board screenshots:
-  <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint%201.jfif" width="auto">
+  <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint-1.png" width="auto">
 
 # Sprint 2
 # Sprint 3
