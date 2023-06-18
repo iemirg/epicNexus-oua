@@ -18,7 +18,7 @@ https://trello.com/b/RsiRLERt/epixnexus-sprint-1
 * **Puan Tanımlama Mantığı:** 
 * **Daily Scrum:**
 * **Sprint Board Update:** Sprint board screenshots:
-  <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint-1.png" width="auto">
+  <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint1%20documents/sprint%201.jfif" width="auto">
 
 # Sprint 2
 # Sprint 3
