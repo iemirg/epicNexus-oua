@@ -15,9 +15,10 @@ https://ibb.co/71WM6dB
 # Jüriye Not
 # Sprint 1 
 * **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**
+* **Puan Tanımlama Mantığı:**
 * **Daily Scrum:**
-* **Sprint Board Update:** Sprint board screenshots 
-<img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint%201.jfif" width="auto">
+* **Sprint Board Update:** Sprint board screenshots:
+  <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint%201.jfif" width="auto">
 
 # Sprint 2
 # Sprint 3
