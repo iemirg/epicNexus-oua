@@ -7,11 +7,11 @@ EpicNexus / U-93
 * Hilal Zeynep Çörtü - Developer
 * Merve Polat - Developer
 # Ürün İsmi
-# Product backlog URL
+# Product backlog URL https://ibb.co/71WM6dB
 # Ürün Açıklaması
 # Ürün Özellikleri 
 # Hedef Kitle
 # Jüriye Not
-# Sprint 1
+# Sprint 1 
 # Sprint 2
 # Sprint 3
