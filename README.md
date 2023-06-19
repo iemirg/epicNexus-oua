@@ -8,6 +8,7 @@ EpicNexus / U-93
 * Hilal Zeynep Çörtü - Developer
 * Merve Polat - Developer
 ## Ürün İsmi
+ --Safe Now--
 ## Product backlog URL 
 https://trello.com/b/RsiRLERt/epixnexus-sprint-1
 ## Ürün Açıklaması
