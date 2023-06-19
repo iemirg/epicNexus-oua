@@ -12,8 +12,12 @@ EpicNexus / U-93
 ## Product backlog URL 
 https://trello.com/b/RsiRLERt/epixnexus-sprint-1
 ## Ürün Açıklaması
+* Safe Now, anılarını kaybetmiş bir bireyin küçüklük haliyle anılarını geri kazanmaya çalıştığı bir oyun. 
 ## Ürün Özellikleri 
+* Safe Now 2D olarak pc ortamına sunulmak üzere tasarlanmış bir oyun.
 ## Hedef Kitle
+* Oyun oynamayı seven,
+* +12 yaş kullanıcı kitlesi
 ## Jüriye Not
 # Sprint 1 
 * **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 40
