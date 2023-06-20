@@ -29,6 +29,6 @@ https://trello.com/b/RsiRLERt/epixnexus-sprint-1
 * **Sprint  Retrospective:**
   * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-
+* **Sprint Notları:** 1.sprint için müsaitlik durumları düzgün planlanmış ve diğer sprintlere daha çok iş ataması yapılmıştır. Diğer sprintlerde daha çok aktif olunması planlanmıştır.
 # Sprint 2
 # Sprint 3
