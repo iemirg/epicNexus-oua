@@ -10,8 +10,8 @@ EpicNexus / U-93
 ## Ürün İsmi
  --Safe Now--
 ## Product backlog URL 
-https://trello.com/b/RsiRLERt/epixnexus-sprint-1
-https://trello.com/b/AKQCobt1/epixnexus-sprint-2
+* https://trello.com/b/RsiRLERt/epixnexus-sprint-1
+* https://trello.com/b/AKQCobt1/epixnexus-sprint-2
 ## Ürün Açıklaması
 * Safe Now, anılarını kaybetmiş bir bireyin küçüklük haliyle anılarını geri kazanmaya çalıştığı bir oyun. 
 ## Ürün Özellikleri 
