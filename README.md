@@ -32,7 +32,8 @@ EpicNexus / U-93
   * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 * **Sprint Notları:** 1.sprint için müsaitlik durumları düzgün planlanmış ve diğer sprintlere daha çok iş ataması yapılmıştır. Diğer sprintlerde daha çok aktif olunması planlanmıştır.
 # Sprint 2
-* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 150
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 170
+* **Puan Tanımlama Mantığı:** Proje boyunca tamamlanması gereken toplam 380 puan backlog bulunmaktadır. İlk sprintte takımın müsaitlik durumundan dolayı  40 puan tamamlandığı için bu sprintin en az 170 puan olmasına karar verilmiştir. 
 * **Daily Scrum:** Daily Scrum toplantılarının ilk 2 toplantı sonunda zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[sprint2 documents](https://github.com/iemirg/epicNexus-oua/tree/main/sprint2%20documents)
 * **Sprint Board Update:** Sprint board screenshots:
   <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint2%20documents/sprint-2.png" width="auto">
