@@ -37,6 +37,9 @@ EpicNexus / U-93
 * **Daily Scrum:** Daily Scrum toplantılarının ilk 2 toplantı sonunda zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[sprint2 documents](https://github.com/iemirg/epicNexus-oua/tree/main/sprint2%20documents)
 * **Sprint Board Update:** Sprint board screenshots:
   <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint2%20documents/sprint-2.png" width="auto">
+* **Ürün Durumu:** Ekran Görüntüleri:
+  * <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint2%20documents/%C3%BCr%C3%BCn%20durumu/Capture.PNG" width="auto">
+  * <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint2%20documents/%C3%BCr%C3%BCn%20durumu/Capture1.PNG" width="auto">
 * **Sprint Review:** Karakter pixelden tasarlandı ve animasyonları oluşturuldu.Karakter kontrol mekanikleri kodlandı. UX/UI tasarımına başlandı. Katılımcılar: Ahmet Furkan Doğan, Hilal Zeynep Çörtü, Merve Polat, Pelinsu Kaleli, İsmail Emir Gürbüz    
 * **Sprint  Retrospective:**
   * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
