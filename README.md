@@ -41,7 +41,7 @@ EpicNexus / U-93
 * **Ürün Durumu:** Ekran Görüntüleri:
   * <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint2%20documents/%C3%BCr%C3%BCn%20durumu/Capture.PNG" width="auto">
   * <img src="https://github.com/iemirg/epicNexus-oua/blob/main/sprint2%20documents/%C3%BCr%C3%BCn%20durumu/Capture1.PNG" width="auto">
-* **Sprint Review:** Karakter pixelden tasarlandı ve animasyonları oluşturuldu.Karakter kontrol mekanikleri kodlandı. UX/UI tasarımına başlandı. Katılımcılar: Ahmet Furkan Doğan, Hilal Zeynep Çörtü, Merve Polat, Pelinsu Kaleli, İsmail Emir Gürbüz    
+* **Sprint Review:** Karakter pixelden tasarlandı ve animasyonları oluşturuldu.Karakter kontrol mekanikleri kodlandı. UX/UI tasarımına başlandı. Katılımcılar: Ahmet Furkan Doğan, Hilal Zeynep Çörtü, Pelinsu Kaleli, İsmail Emir Gürbüz    
 * **Sprint  Retrospective:**
   * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 * **Sprint Notları:** 3.sprintte daha aktif olarak oyunun zamanında bitirilmesine karar verildi.
